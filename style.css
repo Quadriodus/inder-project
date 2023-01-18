@@ -51,6 +51,10 @@
   .ind {
     color:white
   }
+
+  a:hover i{
+    color: purple;
+  }
   
   .sidebar a:hover {
     background-color: #28293b!important;
@@ -58,7 +62,7 @@
     color: white;
   }
 
-  .bi-browser-safari:hover {
+  /* .bi-browser-safari:hover {
     color: purple;
   }
 
@@ -84,7 +88,7 @@
 
   .bi-gear:hover {
     color: purple;
-  }
+  } */
 
   .bi-circle-fill {
     color: purple;
