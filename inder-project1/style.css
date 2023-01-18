@@ -126,6 +126,10 @@
     color: white;
   }
 
+  .bi-bell-fill:hover {
+    color:purple; 
+  }
+
   .notification {
     margin: 10px;
     margin-top: 9px;
